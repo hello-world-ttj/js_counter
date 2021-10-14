@@ -14,5 +14,5 @@ function countDec() {
 }
 
 function saveCount() {
-    savedCount.textContent += counter +'|';
+    savedCount.textContent += counter + '|';
 }
